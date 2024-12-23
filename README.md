@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmmarOtoom
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python then Javascript
-- 💞️ I’m looking to collaborate with any beggenier programmer who want learn with someone
+- 👀 I’m interested in Programming and Teaching
+- 🌱 I’m currently learning Full stack
+- 💞️ I’m looking to collaborate with any programmer who want learn with someone
 - 📫 How to reach me, by Email: otoum.ammar@yahoo.com // or linkedin : https://www.linkedin.com/in/ammar-otoom/
 
 <!---
