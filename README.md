@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmmarOtoom
 - 👀 I’m interested in Programming and Teaching
-- 🌱 I’m currently learning Full stack
+- 🌱 I’m currently learning web fullstack
 - 💞️ I’m looking to collaborate with any programmer who want learn with someone
 - 📫 How to reach me, by Email: otoum.ammar@yahoo.com // or linkedin : https://www.linkedin.com/in/ammar-otoom/
 
